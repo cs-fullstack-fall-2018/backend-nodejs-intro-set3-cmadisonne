@@ -9,3 +9,4 @@ PostMan API Bench - https://www.getpostman.com/
 
 ==========================
 Add a note here after you have joiined and signed in successfully
+I have signed up with both sites.
